@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crombie-challenge/static/css/main.5c40e809.css",
+    "main.js": "/crombie-challenge/static/js/main.7a2f7c28.js",
+    "static/js/787.08f38b4e.chunk.js": "/crombie-challenge/static/js/787.08f38b4e.chunk.js",
+    "index.html": "/crombie-challenge/index.html",
+    "static/media/search.svg": "/crombie-challenge/static/media/search.aefa6ef44d8d0d2176e0.svg",
+    "main.5c40e809.css.map": "/crombie-challenge/static/css/main.5c40e809.css.map",
+    "main.7a2f7c28.js.map": "/crombie-challenge/static/js/main.7a2f7c28.js.map",
+    "787.08f38b4e.chunk.js.map": "/crombie-challenge/static/js/787.08f38b4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c40e809.css",
+    "static/js/main.7a2f7c28.js"
+  ]
+}
