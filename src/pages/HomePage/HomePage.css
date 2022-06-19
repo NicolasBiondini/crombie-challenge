@@ -1,0 +1,28 @@
+.button{
+    border: 2px solid #343A40;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    padding: 10px 50px;
+    font-weight: 600;
+    transition: all 220ms ease-in-out;
+    background-color: #F8F9FA;
+}
+
+#dark .button{
+    border-color: #F8F9FA;
+    color: #F8F9FA;
+    background-color: #343A40;
+}
+
+
+#light .button:hover{
+    -webkit-box-shadow: 10px 10px 0px -1px #343A40;
+-moz-box-shadow: 10px 10px 0px -1px #343A40;
+box-shadow: 10px 10px 0px -1px #343A40;
+}
+
+#dark .button:hover{
+    -webkit-box-shadow: 10px 10px 0px -1px #F8F9FA;
+    -moz-box-shadow: 10px 10px 0px -1px #F8F9FA;
+    box-shadow: 10px 10px 0px -1px #F8F9FA;
+}

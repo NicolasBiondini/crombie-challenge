@@ -1,0 +1,24 @@
+
+.section-results{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    max-width: 1024px;
+    width: 100%;
+    margin: 20px 0;
+    justify-items: center;
+    align-items: center;
+}
+
+
+@media (min-width: 768px) {
+    .section-results{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 1024px) {
+    .section-results{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
